@@ -1,0 +1,2756 @@
+fileFormatVersion: 2
+guid: e779338a3547ea948ae36ebfd842cf7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1538569733742411832
+    second: baba_0
+  - first:
+      213: 237940179582804443
+    second: baba_1
+  - first:
+      213: -5445204096526667974
+    second: baba_2
+  - first:
+      213: -4533541842512422678
+    second: baba_3
+  - first:
+      213: 4751216774898004532
+    second: baba_4
+  - first:
+      213: -6365032961744469194
+    second: baba_5
+  - first:
+      213: 8677523120745334384
+    second: baba_6
+  - first:
+      213: -2658848609715839412
+    second: baba_7
+  - first:
+      213: 1514491583640986137
+    second: baba_8
+  - first:
+      213: 7118826459037683380
+    second: baba_9
+  - first:
+      213: 2065951211089364622
+    second: baba_10
+  - first:
+      213: 5753753881289521434
+    second: baba_11
+  - first:
+      213: -1122138564605396694
+    second: baba_12
+  - first:
+      213: -3048476225948661375
+    second: baba_13
+  - first:
+      213: 865754405465248208
+    second: baba_14
+  - first:
+      213: -5893219794363370475
+    second: baba_15
+  - first:
+      213: -1473895979648245931
+    second: baba_16
+  - first:
+      213: 6320468272528282317
+    second: baba_17
+  - first:
+      213: 3756997166576026671
+    second: baba_18
+  - first:
+      213: -4016068337904387080
+    second: baba_19
+  - first:
+      213: -3604721515873729493
+    second: baba_20
+  - first:
+      213: 277971294795878905
+    second: baba_21
+  - first:
+      213: 7794170349187152741
+    second: baba_22
+  - first:
+      213: -4500436044053067585
+    second: baba_23
+  - first:
+      213: 952673581638211953
+    second: baba_24
+  - first:
+      213: -473807929121556848
+    second: baba_25
+  - first:
+      213: -6475157490344184138
+    second: baba_26
+  - first:
+      213: 6210168177919044536
+    second: baba_27
+  - first:
+      213: 2118729355268734035
+    second: baba_28
+  - first:
+      213: -8543047247155961679
+    second: baba_29
+  - first:
+      213: 1712492249216944050
+    second: baba_30
+  - first:
+      213: -8101358346595781942
+    second: baba_31
+  - first:
+      213: -1270322672735662038
+    second: baba_32
+  - first:
+      213: -6495285206907064388
+    second: baba_33
+  - first:
+      213: 1007916181901551036
+    second: baba_34
+  - first:
+      213: -3041587812474075908
+    second: baba_35
+  - first:
+      213: 1617499935127788568
+    second: baba_36
+  - first:
+      213: -8296877254578599103
+    second: baba_37
+  - first:
+      213: 694387577908985096
+    second: baba_38
+  - first:
+      213: -4354199953748024586
+    second: baba_39
+  - first:
+      213: -842846157430215876
+    second: baba_40
+  - first:
+      213: 5831090735028451668
+    second: baba_41
+  - first:
+      213: 7147809526657230566
+    second: baba_42
+  - first:
+      213: 8749165504057218195
+    second: baba_43
+  - first:
+      213: -6005214336692799093
+    second: baba_44
+  - first:
+      213: -585068254554247352
+    second: baba_45
+  - first:
+      213: -6692955516571512496
+    second: baba_46
+  - first:
+      213: -3489662063490668004
+    second: baba_47
+  - first:
+      213: -1958175922133190780
+    second: baba_48
+  - first:
+      213: 9143143401615760375
+    second: baba_49
+  - first:
+      213: -3454381853371975619
+    second: baba_50
+  - first:
+      213: 2547990294251859451
+    second: baba_51
+  - first:
+      213: 7246061669296951431
+    second: baba_52
+  - first:
+      213: 9055921762516684435
+    second: baba_53
+  - first:
+      213: 7076034056083689955
+    second: baba_54
+  - first:
+      213: -8040614335073154196
+    second: baba_55
+  - first:
+      213: 1292250158513477331
+    second: baba_56
+  - first:
+      213: -6876952130532924099
+    second: baba_57
+  - first:
+      213: 2373744495671399297
+    second: baba_58
+  - first:
+      213: 4320013394048162169
+    second: baba_59
+  - first:
+      213: 7752747934459492899
+    second: baba_60
+  - first:
+      213: 2065781294757121937
+    second: baba_61
+  - first:
+      213: -1719683565655216140
+    second: baba_62
+  - first:
+      213: -6403125906859137421
+    second: baba_63
+  - first:
+      213: 4606837694311004844
+    second: baba_64
+  - first:
+      213: 3370236355296643974
+    second: baba_65
+  - first:
+      213: -6301845582939831653
+    second: baba_66
+  - first:
+      213: -6976445766990815923
+    second: baba_67
+  - first:
+      213: -389302426368176963
+    second: baba_68
+  - first:
+      213: 4969783688272752174
+    second: baba_69
+  - first:
+      213: 1952362410409321019
+    second: baba_70
+  - first:
+      213: -731531450021381734
+    second: baba_71
+  - first:
+      213: -6773259145435776308
+    second: baba_72
+  - first:
+      213: 4916938328085361515
+    second: baba_73
+  - first:
+      213: -5184446061363001948
+    second: baba_74
+  - first:
+      213: -2070467932662684669
+    second: baba_75
+  - first:
+      213: 8538984707849996317
+    second: baba_76
+  - first:
+      213: -5406550144580887876
+    second: baba_77
+  - first:
+      213: 691348910324033990
+    second: baba_78
+  - first:
+      213: -7296562752102848525
+    second: baba_79
+  - first:
+      213: 413185579218095563
+    second: baba_80
+  - first:
+      213: 2845080635511249457
+    second: baba_81
+  - first:
+      213: 7705178681383681461
+    second: baba_82
+  - first:
+      213: -7510862589360118623
+    second: baba_83
+  - first:
+      213: -2070709800455102302
+    second: baba_84
+  - first:
+      213: 5345145215694439735
+    second: baba_85
+  - first:
+      213: 6218707874850954648
+    second: baba_86
+  - first:
+      213: 272577440840653021
+    second: baba_87
+  - first:
+      213: -2118608821755680201
+    second: baba_88
+  - first:
+      213: 5812256133485165694
+    second: baba_89
+  - first:
+      213: -4642236158340820142
+    second: baba_90
+  - first:
+      213: 7607307181278748274
+    second: baba_91
+  - first:
+      213: 5154244175498900120
+    second: baba_92
+  - first:
+      213: -3028413996870112667
+    second: baba_93
+  - first:
+      213: 2445412432845358715
+    second: baba_94
+  - first:
+      213: 5531305785176010490
+    second: baba_95
+  - first:
+      213: 7367879305012991741
+    second: baba_96
+  - first:
+      213: 5492986476487742180
+    second: baba_97
+  - first:
+      213: -3893158601283950160
+    second: baba_98
+  - first:
+      213: 7587378126781702603
+    second: baba_99
+  - first:
+      213: 7293600663318783738
+    second: baba_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baba_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ba60fe3d521444fafa6ed44e66b2a9
+      internalID: 1371437063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 440
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c79bab1be25f0419fcfcf14bdf545f
+      internalID: 1746813717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 440
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3124d55aa62a441a6104b3e51ef7b0
+      internalID: -973127362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 440
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833723a87024834bbb0b33669daf19f
+      internalID: 1720432855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 440
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fd48004a89b9748a92f9e46c7c6cca
+      internalID: 246264744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 440
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4092fcaa9e3740e4fb05c3404d08c4be
+      internalID: -1374978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 440
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b208c1f8cc139e4dbbdae1dfd310472
+      internalID: -774325404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 440
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9274e1bbbf9c4bb2729da511279f6
+      internalID: 1310372988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 440
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44317b2e3e17c0140b233d5c45dc960f
+      internalID: -108844021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 440
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeaea4a168208248ae821b40276b32f
+      internalID: -1822774482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 438
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada529a6ce56224590bf378933d31f1
+      internalID: -171309000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 440
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea21b3b12467e6479f4fdd91b465b6d
+      internalID: 2003557667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 440
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea48022740b34547981af65c3031cda
+      internalID: -775724150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 393
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a5ceacff897d46aa8fe72fd3516e2
+      internalID: -1388432937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 393
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d4fe0de945f044fb41716350b49496
+      internalID: -615252913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 393
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3648b29715749b45b17bbeaa0796b79
+      internalID: -20231123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 393
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35655a2e7a3c25f49a85aa908dcccd34
+      internalID: -454280067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 393
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b31f8961ba4b448cb1afde299cc6d
+      internalID: -456534310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 393
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74984ab931b949468050a531686903c
+      internalID: -172651115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 393
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c1c2eb91b3cc4488dbd4682627245
+      internalID: -1164190351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 393
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c918725ad8132474fbd0d3b0fdc7cb52
+      internalID: 805418357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 393
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abdd1beebdb7dd4e9aa0bdae193827f
+      internalID: 880925010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 393
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59ff53b663fd046a01a97ca985350e
+      internalID: -817737507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f12c62bb51ccd49bd5749765fd9b79
+      internalID: -1903687897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 355
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b4e27e309eaf14ab1c372bea4a1bc4
+      internalID: 540152757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 354
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0419de656860424bb4292fd4736f277
+      internalID: -229297550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 354
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6424b20bf5e24cbe709f4ebb38dd9
+      internalID: -1834420370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 352
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0f8b3654887b468c05c0d73e3abe3
+      internalID: -778805215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 353
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed2d50092593f4bbec1f51d6fb475c
+      internalID: -989388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 353
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616df91ef46395449a2f1d0b47161046
+      internalID: -569482032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 353
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1ba9268a582b45aa94c047e89d725
+      internalID: -1101550963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 351
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe3df3b4c6e6e4fac35cc2f9e603e7
+      internalID: -1503560388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 351
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d453fcb9fe63e2a4683907336ccaa8a0
+      internalID: -1863691922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 312
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01588d393deffb4aa16ab94ef40c54e
+      internalID: 2029402923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 313
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62686dad31c4fb644a61a36399d4749a
+      internalID: 880945088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 318
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306ea570f392fd946a4d3ec341997d2a
+      internalID: -1656640110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 319
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d109cfbaac0b640bb60366ed9d7f32
+      internalID: 1306616123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 313
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e88a28ba50b4a499b3bf4447dcca4c
+      internalID: -378650315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 315
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ed2ba672af09346a629d6c375b8120
+      internalID: 2035150484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 315
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9ed66e8702574cb55f52a9dbc7e43
+      internalID: 1177296943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 315
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4d20b835986cb4c8abe473e03d296c
+      internalID: -1682562788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 315
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647fbd593f6bf1f47a2e7d0342df8d1c
+      internalID: 1725710914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 315
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737ddb275aa50a49ac18e3f220cc848
+      internalID: -1088875958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b50c59c6cca55844906a8c2076d0128
+      internalID: -70792366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 251
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92916d103d320b459b6b6d63be72596
+      internalID: -917728109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 251
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f646e44616ac4eb6e8d420ed858c2
+      internalID: -1311843520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 251
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59f592f344f504786582b8fab0de9e
+      internalID: 172764919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 251
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4ee0ab6e1fbd4bbfb90439c5e357e
+      internalID: 1079314902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 251
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c03a878a2a5804d9bcc92513f65ebf
+      internalID: -1789374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 251
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf75da07e1822c40b89e03693c0b901
+      internalID: -967124325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 251
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee71016f9c8bc94db86bf292a627c75
+      internalID: 789850960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 251
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce73baa733e0324d8975acf68b54e69
+      internalID: 1144552521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_52
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 251
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae7953bc85e7f47a633821686f225c
+      internalID: -40897927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 251
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f527b4dee78a14aa110fb52f1506c9
+      internalID: 632737186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_54
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 251
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6a2a60d83fbc44a974218fa6f1b28
+      internalID: 314204026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1ddf09bb258fe4dae1470edd578cac
+      internalID: 1475180386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 199
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5b17f8b2caaa34ab22cc096a8166f8
+      internalID: 1570601778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408fa786bcf3470459fc19b8f8789091
+      internalID: 993126433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 199
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128fb2dd1ad30f4b82f3cf4fd96df6a
+      internalID: 405889094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 199
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb2041739df4540a463b2a50e7ed20
+      internalID: 2083570241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_60
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 199
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145461a788f0af64ab38bdb1d4378908
+      internalID: 226649266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498fee1d34330574d839429a090c870a
+      internalID: 291817358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 199
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ade440d5a38014a94515082e6b0e4d
+      internalID: 1396763686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_63
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 199
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08cababf6d1d7f4ab308db4ba2c6fd2
+      internalID: 175045144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf3c7e25bb05514297396d47d134176
+      internalID: 1459609779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_65
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 199
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d411d36dc86c6bc40993cdc8b6af0605
+      internalID: -760345578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_66
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 199
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f392127d5eeece4a8b4a40398aebb4c
+      internalID: 1738780769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 199
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07feb033c284464a8c274ec9e23b56f
+      internalID: 1495585591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2dc7ff3265a644f9af186050940ecc
+      internalID: 84546913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 133
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811413038e6a6d4a9cf190d62397340
+      internalID: -222834675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 133
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4f72aaa4aa9f42978ef398ef21e9b
+      internalID: 2101248570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffd76444b4e98849be78f211d019fa5
+      internalID: 459414416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 133
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad08d4e7cbd34b46b1324ba56617d8f
+      internalID: -1696460460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 133
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0d3590a8252f2449ee97fc45320ef8
+      internalID: 1352120457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 133
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a562649202db248bf643862c9c4246
+      internalID: -1046031878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_75
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 133
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d442026f995514aa5daa597f0a3166
+      internalID: 1268629716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 133
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a2fdfceb8c474884a31102b19da91
+      internalID: 260508363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_77
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 133
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323870e583411454eb82b456f2cc23d1
+      internalID: 927815750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_78
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 133
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ccce3a11b437a43a37738b8ee97c1f
+      internalID: -773298367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_79
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 133
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb7b192c070fb4cbdcd019df547ad7
+      internalID: 212042255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 133
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b784fe08ccfe469ef0362421c72a3
+      internalID: 1696266311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_81
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 133
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a50052c00b70da47972620709047b82
+      internalID: -439093736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_82
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 133
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced9a062f96e3f4fa0669788cb1e094
+      internalID: 2070986803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed16bd0be92ead4a9167c6035513ff4
+      internalID: -458032056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec25bbce396bab1439ab8b80f14741eb
+      internalID: -84261867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe0af9ef2e680428e6f666206f95dd
+      internalID: 1880563873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 83
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ebe4c41bba2442a1117da2519447f
+      internalID: -650635684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 83
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21b4317910ef745b7ff899c8135408
+      internalID: -1387892468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_88
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 83
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d86d65f40567c4d9f2c8531e1232c7
+      internalID: 603244051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_89
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 83
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf27fef9098e341932c60f0f3a8762
+      internalID: -1686264104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 83
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248b88d448fa5e64f8060de7d85909ab
+      internalID: -1528160968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_91
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 83
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4fe309813bee544a7e7f5ab465839b
+      internalID: -1008878094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_92
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8067aed39f86645b4506fcaa7a31fb
+      internalID: 179716602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f499dfbe9e35f9d44a94119be0748d12
+      internalID: 2134691584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 34
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb95c455a7ece94088bb46a86552fb5
+      internalID: -1749039644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_95
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb471ad26576ff44fb5612e50d555e6d
+      internalID: 1916314265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 34
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b194ac9063992e49b925afaade51f07
+      internalID: 819673139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_97
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 34
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e53ace9022c24688c1e3c2136dbe0
+      internalID: -1384193688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5906d736699964c9e67538bbf2cf1d
+      internalID: 1415379656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_99
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 34
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff5566169abbc046846a6c76f65b472
+      internalID: -844481366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baba_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33578a144f63c3a40809db27be42bee7
+      internalID: -1319312464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2db27a0863cf0d644bb3b1d227a1d415
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      baba_0: 1371437063
+      baba_1: 1746813717
+      baba_10: -171309000
+      baba_100: -1319312464
+      baba_11: 2003557667
+      baba_12: -775724150
+      baba_13: -1388432937
+      baba_14: -615252913
+      baba_15: -20231123
+      baba_16: -454280067
+      baba_17: -456534310
+      baba_18: -172651115
+      baba_19: -1164190351
+      baba_2: -973127362
+      baba_20: 805418357
+      baba_21: 880925010
+      baba_22: -817737507
+      baba_23: -1903687897
+      baba_24: 540152757
+      baba_25: -229297550
+      baba_26: -1834420370
+      baba_27: -778805215
+      baba_28: -989388325
+      baba_29: -569482032
+      baba_3: 1720432855
+      baba_30: -1101550963
+      baba_31: -1503560388
+      baba_32: -1863691922
+      baba_33: 2029402923
+      baba_34: 880945088
+      baba_35: -1656640110
+      baba_36: 1306616123
+      baba_37: -378650315
+      baba_38: 2035150484
+      baba_39: 1177296943
+      baba_4: 246264744
+      baba_40: -1682562788
+      baba_41: 1725710914
+      baba_42: -1088875958
+      baba_43: -70792366
+      baba_44: -917728109
+      baba_45: -1311843520
+      baba_46: 172764919
+      baba_47: 1079314902
+      baba_48: -1789374628
+      baba_49: -967124325
+      baba_5: -1374978150
+      baba_50: 789850960
+      baba_51: 1144552521
+      baba_52: -40897927
+      baba_53: 632737186
+      baba_54: 314204026
+      baba_55: 1475180386
+      baba_56: 1570601778
+      baba_57: 993126433
+      baba_58: 405889094
+      baba_59: 2083570241
+      baba_6: -774325404
+      baba_60: 226649266
+      baba_61: 291817358
+      baba_62: 1396763686
+      baba_63: 175045144
+      baba_64: 1459609779
+      baba_65: -760345578
+      baba_66: 1738780769
+      baba_67: 1495585591
+      baba_68: 84546913
+      baba_69: -222834675
+      baba_7: 1310372988
+      baba_70: 2101248570
+      baba_71: 459414416
+      baba_72: -1696460460
+      baba_73: 1352120457
+      baba_74: -1046031878
+      baba_75: 1268629716
+      baba_76: 260508363
+      baba_77: 927815750
+      baba_78: -773298367
+      baba_79: 212042255
+      baba_8: -108844021
+      baba_80: 1696266311
+      baba_81: -439093736
+      baba_82: 2070986803
+      baba_83: -458032056
+      baba_84: -84261867
+      baba_85: 1880563873
+      baba_86: -650635684
+      baba_87: -1387892468
+      baba_88: 603244051
+      baba_89: -1686264104
+      baba_9: -1822774482
+      baba_90: -1528160968
+      baba_91: -1008878094
+      baba_92: 179716602
+      baba_93: 2134691584
+      baba_94: -1749039644
+      baba_95: 1916314265
+      baba_96: 819673139
+      baba_97: -1384193688
+      baba_98: 1415379656
+      baba_99: -844481366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

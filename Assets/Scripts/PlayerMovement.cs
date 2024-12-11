@@ -1,9 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Runtime.CompilerServices;
-using NUnit.Framework.Constraints;
-using TreeEditor;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -138,7 +133,10 @@ public class PlayerMovement : MonoBehaviour
   float raycastGroundedDistance = 0.9f;
   bool checkIfGrounded()
   {
-    RaycastHit2D raycastGroundedHit = Physics2D.Raycast(transform.position, transform.TransformDirection(Vector2.down), raycastGroundedDistance, 1 << 6);
+    RaycastHit2D raycastGroundedHit = Physics2D.Raycast(
+      transform.position, transform.TransformDirection(Vector2.down)
+      , raycastGroundedDistance
+      , 1 << 6);
 
     return raycastGroundedHit || rB.linearVelocityY == 0;
 
@@ -147,8 +145,6 @@ public class PlayerMovement : MonoBehaviour
   void OnDrawGizmos()
   {
     Gizmos.color = Color.red;
-    // Gizmos.DrawLine(transform.position, new Vector3(transform.position.x, transform.position.y - 1, transform.position.z));
-    // Gizmos.DrawLine(transform.position, transform.TransformDirection(Vector2.down * raycastGroundedDistance) + transform.position);
     Gizmos.DrawRay(transform.position, transform.TransformDirection(Vector2.down));
   }
 
@@ -180,14 +176,8 @@ public class PlayerMovement : MonoBehaviour
     sprite.flipX = !sprite.flipX;
     yield return new WaitForSeconds(bumpDuration);
     anim.SetBool("Bump", false);
+    rB.linearVelocityX = 0;
     sprite.flipX = !sprite.flipX;
-    // sprite.flipX = true;
-
-    // for (float i = 0; i < bumpDuration; i += Time.deltaTime)
-    // {
-
-    //   yield return null;
-    // }
   }
 
 }
