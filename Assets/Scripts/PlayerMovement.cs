@@ -45,10 +45,10 @@ public class PlayerMovement : MonoBehaviour
 
     Bump();
 
-    if (checkIfGrounded())
-    {
-      print("grounded");
-    }
+    // if (checkIfGrounded())
+    // {
+    //   print("grounded");
+    // }
 
     Debug.DrawRay(transform.position, Vector2.down);
   }
@@ -90,7 +90,7 @@ public class PlayerMovement : MonoBehaviour
   void activateJumpForce(float forceMultiplier = 100)
   {
     rB.AddForce(new Vector2(0, forceMultiplier * jumpForce));
-    Debug.Log("Jump force activated");
+    // Debug.Log("Jump force activated");
   }
 
   IEnumerator IEJumpTimer()
@@ -161,7 +161,6 @@ public class PlayerMovement : MonoBehaviour
   {
     if (bumpAction.WasPressedThisFrame())
     {
-
       anim.SetBool("Bump", true);
       StartCoroutine(IEBumpTimer());
     }
